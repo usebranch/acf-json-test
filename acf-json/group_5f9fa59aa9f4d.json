@@ -4,7 +4,7 @@
     "fields": [
         {
             "key": "field_5f9fa5c480822",
-            "label": "Name of the file",
+            "label": "Filename",
             "name": "filename",
             "type": "text",
             "instructions": "",
@@ -76,5 +76,5 @@
     "hide_on_screen": "",
     "active": true,
     "description": "",
-    "modified": 1604298536
+    "modified": 1604299427
 }
