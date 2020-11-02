@@ -39,6 +39,24 @@
             "min_size": "",
             "max_size": "",
             "mime_types": ""
+        },
+        {
+            "key": "field_5f9fa71465424",
+            "label": "Your email",
+            "name": "email",
+            "type": "email",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
         }
     ],
     "location": [
@@ -58,5 +76,5 @@
     "hide_on_screen": "",
     "active": true,
     "description": "",
-    "modified": 1604298226
+    "modified": 1604298536
 }
