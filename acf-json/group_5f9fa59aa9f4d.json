@@ -42,7 +42,7 @@
         },
         {
             "key": "field_5f9fa71465424",
-            "label": "Your email",
+            "label": "Uploader's email",
             "name": "email",
             "type": "email",
             "instructions": "",
@@ -76,5 +76,5 @@
     "hide_on_screen": "",
     "active": true,
     "description": "",
-    "modified": 1604299427
+    "modified": 1604300380
 }
